@@ -1,5 +1,5 @@
 ## Hi there 👋
-Myself Arvind Kumar
+Author-Arvind Kumar
 <br>
 And this is my 1st github repository
 <!--
