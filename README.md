@@ -1,7 +1,8 @@
 ## Hi there 👋
-Author-Arvind Kumar
+This is my first Git Repository
 <br>
-And this is my 1st github repository
+Author-Arvind Kumar
+
 <!--
 **arvindkumar003/arvindkumar003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
